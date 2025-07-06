@@ -8,7 +8,7 @@ The main file is HackingSystem.cs this will allow you to set this up
 Then call
 ```csharp
    - HackingSystem.Show(player, patternLength, patternSpeed, effectId, effectKey); to start the it
-   - Hook EffectManager.onEffectButtonClicked and call HackingSystem.OnEffectButtonClicked(...) in your handler
+   - Hook EffectManager.onEffectButtonClicked and call HackingSystem.OnEffectButtonClicked(...)
 ```
 Should look somthing like this:
 ```csharp
