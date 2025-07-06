@@ -2,7 +2,7 @@
 
 I made this quite quickly so might not be the best
 
-![Watch Demo](https://github.com/user-attachments/assets/6e835ce3-9e50-4614-acb2-c3e8dbf3532b)
+https://github.com/user-attachments/assets/6e835ce3-9e50-4614-acb2-c3e8dbf3532b
 
 
 ## Setup
